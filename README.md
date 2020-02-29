@@ -1,6 +1,6 @@
 # FaceRecogonitionwithcnn
 
-In this project, the user will first get his picture and then he will build a model and then he will be able to detect the live face. 
+In this project, the user will first click his picture and then he will build a model and then he will be able to detect the live face. 
 
 Requirments :
 
@@ -31,6 +31,11 @@ Requirments :
 	from keras.callbacks import EarlyStopping
 	
 	from tensorflow.keras.models import load_model
+
+
+This File is for detect the face to click only front face picture
+	
+	haarcascade_frontalface_default.xml
 
 Sequence way of run the program:
 
