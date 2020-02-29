@@ -13,6 +13,8 @@ Requirments :
 	import pandas
   
 	import os
+	
+	import matplotlib.pyplot
   
 	all modules of keras
 
