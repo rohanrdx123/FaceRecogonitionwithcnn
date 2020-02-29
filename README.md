@@ -4,33 +4,17 @@ In this project, the user will first click his picture and then he will build a 
 
 Requirments :
 
-	import keras
+	pip install keras
   
-	import cv2
+	pip install cv2
   
-	import numpy
+	pip install numpy
   
-	import pandas
-  
-	import os
+	pip install pandas
 	
-	import matplotlib.pyplot
-  
-	from keras.models import Sequential
-						
-	from keras.layers import Convolution2D 
-						
-	from keras.layers import MaxPooling2D 
-						
-	from keras.layers import Flatten
-						
-	from keras.layers import Dense 	
-					
-	from keras.preprocessing.image import ImageDataGenerator\
-	
-	from keras.callbacks import EarlyStopping
-	
-	from tensorflow.keras.models import load_model
+	pip install matplotlib.pyplot
+  	
+	pip install tensorflow
 
 
 This File is for detect the face to click only front face picture
@@ -48,4 +32,6 @@ Sequence way of run the program:
 
 
 # Note: Please donot delete any file from folder.
+
+# if you have any query about this project please email me at : rohandixit67@gmail.com
 
