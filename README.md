@@ -16,7 +16,21 @@ Requirments :
 	
 	import matplotlib.pyplot
   
-	all modules of keras
+	from keras.models import Sequential
+						
+	from keras.layers import Convolution2D 
+						
+	from keras.layers import MaxPooling2D 
+						
+	from keras.layers import Flatten
+						
+	from keras.layers import Dense 	
+					
+	from keras.preprocessing.image import ImageDataGenerator\
+	
+	from keras.callbacks import EarlyStopping
+	
+	from tensorflow.keras.models import load_model
 
 Sequence way of run the program:
 
