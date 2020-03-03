@@ -23,11 +23,11 @@ This File is for detect the face to click only front face picture
 
 Sequence way of run the program:
 
-	First run the image_capture file
+	First run the image_capture file.py and enter a unique id to create face samples with your face
   
-	then run the train_model file
+	then run the train_model file.py
   
-	then run the livefacedetect file
+	then run the livefacedetect file.py
   
 
 
@@ -35,3 +35,4 @@ Sequence way of run the program:
 
 # if you have any query about this project please email me at : rohandixit67@gmail.com
 
+# Author :- Rohan Dixit
