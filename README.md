@@ -1,5 +1,6 @@
 # FaceRecogonitionwithcnn
-
+Face Attendance System with OpenCV, Python, and CNN, ensuring precise identification and efficient tracking for univer-
+sities.
 In this project, the user will first click his picture and then he will build a model and then he will be able to detect the live face. 
 
 Requirments :
